@@ -1,9 +1,12 @@
-# adityathakurakt.github.io
-AdityaThakurAKT
-👋 Hi, I’m @AdityaThakurAKT
-👀 I’m interested in Web Development
-🌱 I’m currently C programing …
-💞️ I’m looking to collaborate on c program…
-📫 How to reach me Email admin@akt.atrox.in …
-😄 Pronouns: he.
-⚡ Fun fact: Owner of atrox.in …
+- 👋 Hi, I’m @AdityaThakurAKT
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently C programing ...
+- 💞️ I’m looking to collaborate on c program...
+- 📫 How to reach me Email admin@akt.atrox.in ...
+- 😄 Pronouns: he.
+- ⚡ Fun fact: Owner of atrox.in ...
+
+<!---
+AdityaThakurAKT/AdityaThakurAKT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
